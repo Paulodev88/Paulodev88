@@ -26,8 +26,8 @@
 
 ## Languages and Tools:
 
-[![Language Rank](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulodev88)](https://https://github.com/Paulodev88)
-[![Paulodev88's Github Stars](https://github-readme-stats.vercel.app/api?username=Paulodev88)](https://https://github.com/Paulodev88)
+[![Language Rank](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulodev88)](https://github.com/Paulodev88)
+[![Paulodev88's Github Stars](https://github-readme-stats.vercel.app/api?username=Paulodev88)](https://github.com/Paulodev88)
 
 
 
