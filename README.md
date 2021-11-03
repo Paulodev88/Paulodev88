@@ -17,6 +17,8 @@
  
 
 ## About me
+[![Language Rank](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulodev88)](https://https://github.com/Paulodev88)
+[![Paulodev88's Github Stars](https://github-readme-stats.vercel.app/api?username=Paulodev88)](https://https://github.com/Paulodev88)
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Paulodev88)](https://github.com/Paulodev88)
@@ -26,6 +28,8 @@
 
 
 ## Languages and Tools:
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=paulodev88
 
 <CODE><img height="20"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></CODE>
 <CODE><img height="20"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></CODE>
