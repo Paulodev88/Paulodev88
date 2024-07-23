@@ -12,7 +12,7 @@
 
 :books: I’m currently learning Salesforce, Java and Flutter.
 
-:outbox_tray: 2021 Goals: Increase my knowledge and leverage my skills with Java.
+:outbox_tray: 2024 Goals: Improve my knowledge and leverage my skills with Java Flutter and Apex.
 
  
 
@@ -36,9 +36,6 @@
 <CODE><img height="20"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></CODE>
 <CODE><img height="20"  src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/></CODE>
 <CODE><img height="20"  src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></CODE>
-<CODE><img height="20"  src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></CODE>
-<CODE><img height="20"  src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></CODE>
-<CODE><img height="20" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></CODE>
 
 - Thanks for visiting.
 
